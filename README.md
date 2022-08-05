@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ismailsoytekin
-- 👀 I’m interested in Salesforce LCW,Aura,Visiual force and Apex
+- 👀 I’m interested in Salesforce Development LCW,Aura,Visiual force
 - 🌱 I’m currently learning Deploy and API in Salesforce
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Javacript|Java|Apex|HTML5|CSS|Jira|Agile|
 - 📫 How to reach me ... ismailsoytekin@gmail.com
 
 <!---
